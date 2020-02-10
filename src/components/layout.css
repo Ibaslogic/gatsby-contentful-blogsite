@@ -618,6 +618,7 @@ pre tt:after {
 
 .posts {
   list-style-type: none;
+  margin: 0;
 }
 .post {
   padding-bottom: 40px;
